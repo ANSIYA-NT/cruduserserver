@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Leo Graham",
+      "email": "leo1@gmail.com",
+      "phone": "9084562385",
+      "id": "6"
+    },
+    {
+      "name": "Albert",
+      "email": "albert67@gmail.com",
+      "phone": "7695238735",
+      "id": "7"
+    },
+    {
+      "name": "Ann Mariya",
+      "email": "mariyaann@gmail.com",
+      "phone": "9452861974",
+      "id": "8"
+    },
+    {
+      "name": "Shraddha",
+      "email": "sred40@gmail.com",
+      "phone": "6740290164",
+      "id": "9"
+    },
+    {
+      "name": "Ervin Joy",
+      "email": "ervjoy@gmail.com",
+      "phone": "7865674563",
+      "id": "KzBxMe_"
+    }
+  ]
+}
